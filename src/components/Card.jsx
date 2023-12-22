@@ -17,7 +17,7 @@ function Card({details, index}) {
         <>
         <h3 className={`${completed ? 'line-through text-slate-500/75' : ''} font-bold tracking-widest uppercase text-stone-600 mt-5`}>Landmarks</h3>
         <p className="mx-2 mt-2 text-green-600">Kindly tick the checkbox once you notice a landmark till the step is complete</p>
-        {details.landmarks.map(landmark => <Landmark landmark={landmark} completed={completed}/>) }
+        {details.landmarks.map(landmark => <Landmark landmark={landmark} completed={completed} key={landmark}/>) }
         </>
         }
     </div>
