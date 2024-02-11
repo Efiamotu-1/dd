@@ -29,16 +29,17 @@ const data = [
  },
  {
   id: 3,
-  desc: 'Once you have dropped down you would need to enter CAMPUS SHUTTLE so ask around for where to enter it, it is a very short walking distance from where you dropped the fee for this is #200',
+  desc: 'Once you have dropped down you would need to enter KEKE which you would find towards your left it should take you to unilag junction and it is #150, the keke would call any of these busstop sabo, oyingbo, waec or yabatech just tell him you want to drop at unilag junction',
   landmarks: [
-    'The shuttle should have a UNIVERSITY OF LAGOS text written on the behind of it, this confirms that it is a campus shuttle.',
-    'Please make sure to seat either on the passengers side beside the driver or on the first row inside the bus so that you would be able to see and notice when you get to the school gate.',
-    'As soon as the bus starts moving notify me via text or flash me so i would start making my way to the school gate.',
-    'In the shuttle you would be required to pay #200',
-    'The driver would drive past the market and connect to one of the streets in yaba to which you would pass a korede spaghetti to your left and an army uniform making environment to the right and also ozone cinemas to the left as well.',
-    'On your way you would go past a dominos/cold stone pizza place watch out for this as it signifies you are getting close.',
-    'The driver would move past a couple of streets till he gets to university road, now from the bus depending on where you seat you would be able to see the very tall brick gates of the school with the inscription UNIVERSITY OF LAGOS with color yellow and wine, it is here you would let the driver know that you would want to stop at the school gates by saying school gate owa o.',
-    'Once you drop down from the bus i would be waiting on the other side so you would have to cross over.'
+    'You will get to waec bus stop first',
+    'Next bus stop is yabatech bus stop',
+    'You will arrive unilag junction',
+    'You will cross the road to the other side, please take note it is a one way so cars move on both sides take your time before crossing for safety',
+    'Walk straight after crossing, you will see lots of keke keep walking straight, you can call me at this point or just continue following the directions',
+    'walk past the first turning to your right, after that you should see an ace lounge, keep walking to the seci=ond turning to your right',
+    'this is my street moore road, once you get here defiitely call me or walk in the street my gate is to the left',
+    'you will see houses with black gates to your left, one has the number 30 on it, after that the next house is mine with a red gate',
+    'I will be outside waiting to receive you'
   ]
     
  }
