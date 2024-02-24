@@ -26,7 +26,7 @@ const data = [
     'You will get to waec bus stop first',
     'Next bus stop is yabatech bus stop',
     'You will arrive unilag junction',
-    'You will cross the road to the other side, please take note it is a one way so cars move on both sides take your time before crossing for safety',
+    'You will cross the road to the other side, please take note it is a two way so cars move on both sides of the lane from your left and right, please take your time before crossing for safety',
     'Walk straight after crossing, you will see lots of keke keep walking straight, you can call me at this point or just continue following the directions',
     'walk past the first turning to your right, after that you should see an ace lounge, keep walking to the seci=ond turning to your right',
     'this is my street moore road, once you get here definitely call me or walk in the street my gate is to the left',
@@ -43,6 +43,7 @@ function App() {
   return (
 <>
     <header className="text-center tracking-widest uppercase font-bold text-[1rem] bg-[#18212f] p-3 border-b border-solid border-[#1f2937]">Detailed Description</header>
+    <img src="mmm.png" alt="" />
     <p className="text-center uppercase mt-2">ikeja underbridge to Yaba</p>
     <p className="mx-2 mt-5 text-green-600">Kindly tick the checkbox once each step is complete till you reach your destination.</p>
      <p className="mx-2 text-red-600">Only click the checkbox for a step once all landmarks have been ticked</p>
