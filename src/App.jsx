@@ -43,7 +43,6 @@ function App() {
   return (
 <>
     <header className="text-center tracking-widest uppercase font-bold text-[1rem] bg-[#18212f] p-3 border-b border-solid border-[#1f2937]">Detailed Description</header>
-    <img src="mmm.png" alt="" />
     <p className="text-center uppercase mt-2">ikeja underbridge to Yaba</p>
     <p className="mx-2 mt-5 text-green-600">Kindly tick the checkbox once each step is complete till you reach your destination.</p>
      <p className="mx-2 text-red-600">Only click the checkbox for a step once all landmarks have been ticked</p>
